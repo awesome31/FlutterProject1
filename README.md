@@ -8,4 +8,4 @@ I have created a simple application in Flutter that displays a list of images an
 - Clear and readable code.
 
 ## Screenshots
-<img src = 'picOne.png'>
+<img src = 'PicOne.png'>
