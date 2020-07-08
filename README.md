@@ -1,16 +1,11 @@
-# flutter_project_1
+# Pictures Application
+I have created a simple application in Flutter that displays a list of images and adds images to that list each time the button is clicked.
 
-A new Flutter project.
+## Flutter Concepts
+- Created a Stateless and Stateful Widget.
+- Handling external API response and making the App work with async opeerations.
+- Made use of the Scaffold, ListView, Image, Container, Padding widgets.
+- Clear and readable code.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src = 'picOne.png'>
